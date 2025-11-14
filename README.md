@@ -85,5 +85,5 @@ Power BI | Data Analytics | Marketing Intelligence
 
 🔗 [LinkedIn Profile] [https://www.linkedin.com/in/shruti-sumadhur-ghosh-61306855/]
 ---
-video walkthrough: [https://drive.google.com/file/d/1UXdq31dXsEinrfr4zjqaE6sMNjevI75L/view?usp=sharing]
+video walkthrough: [https://drive.google.com/file/d/1Pi0VLsIJeqACHUSO30gaj2sDOVV-9cWJ/view?usp=sharing]
 ⭐ If you liked this project, consider giving it a **star** on GitHub!
